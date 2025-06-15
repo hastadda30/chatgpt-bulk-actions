@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ChatGPT Bulk Actions",
   "version": "1.0",
-  "description": "Bulk deletes for ChatGPT conversations!",
+  "description": "Select, archive, or delete multiple ChatGPT chats at once — straight from the sidebar.",
   "permissions": [
     "notifications"
   ],
